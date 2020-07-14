@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, visitor.
 
 Read me, read me not.
 <!--
