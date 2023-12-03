@@ -1,6 +1,10 @@
-### Hello, visitor.
+### Hi there 👋 I'm Farhan Reynaldo Hutabarat,
 
-Read me, read me not.
+- 🏫 I'm currently pursuing Masters in Quantitative Methods in the Social Sciences at Columbia University. 
+- 💼 Previously, I worked as a senior data analyst in Tokopedia and as a data scientist in Delman and Dattabot. 
+- 🌱 My interest lies in the field of bayesian data analysis, experimentation, and causal inference.
+- 📫 You can get in touch with me by email at [farhanreynaldo@gmail.com](mailto:farhanreynaldo@gmail.com) and [LinkedIn](https://www.linkedin.com/in/farhanreynaldo/).
+
 <!--
 **farhanreynaldo/farhanreynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
