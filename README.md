@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Farhan Reynaldo Hutabarat
 
-- 🏫 I'm currently pursuing Masters in Quantitative Methods in the Social Sciences at Columbia University. 
+- 🏫 I completed my master's degree in Quantitative Methods in the Social Sciences at Columbia University. 
 - 💼 Previously, I worked as a senior data analyst in [Tokopedia](https://www.gotocompany.com/en) and as a data scientist in [Delman Data Lab](https://delman.io/) and [Dattabot](https://dattabot.io/). 
 - 🌱 My interest lies in the field of bayesian data analysis, experimentation, and causal inference.
 - 📫 You can get in touch with me by email at [farhanreynaldo@gmail.com](mailto:farhanreynaldo@gmail.com) and [LinkedIn](https://www.linkedin.com/in/farhanreynaldo/).
